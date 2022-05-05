@@ -1,5 +1,6 @@
 #!/bin/sh
 
+cd $1
 mkdir cmd
 mkdir internal
 mkdir pkg
