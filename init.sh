@@ -3,4 +3,4 @@
 cd $1
 mkdir internal
 mkdir pkg
-go mod init $1
+go mod init $2
